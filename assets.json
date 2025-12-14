@@ -1,0 +1,177 @@
+{
+  "assets": [
+    {
+      "name": "aws-black-icon",
+      "type": "icon",
+      "path": "assets/icons/aws-black.svg",
+      "size": 64,
+      "tags": ["aws", "icon"],
+      "description": "AWS Black icon asset (64x64)"
+    },
+    {
+      "name": "aws-black-orange-icon",
+      "type": "icon",
+      "path": "assets/icons/aws-black-orange.svg",
+      "size": 64,
+      "tags": ["aws", "icon", "black", "orange"],
+      "description": "AWS Black and Orange icon asset (64x64)"
+    },
+    {
+      "name": "aws-blue-orange-icon",
+      "type": "icon",
+      "path": "assets/icons/aws-blue-orange.svg",
+      "size": 64,
+      "tags": ["aws", "icon", "black"],
+      "description": "AWS Blue and Orange icon asset (64x64)"
+    },
+    {
+      "name": "aws-white-orange-icon",
+      "type": "icon",
+      "path": "assets/icons/aws-white-orange.svg",
+      "size": 64,
+      "tags": ["aws", "icon", "white", "orange"],
+      "description": "AWS White and Orange icon asset (64x64)"
+    },
+    {
+      "name": "aws-black-sphere-logo",
+      "type": "logo",
+      "path": "assets/logos/aws-black-sphere.svg",
+      "size": 375,
+      "tags": ["aws", "logo", "black", "sphere"],
+      "description": "AWS Black Sphere logo (375×375, viewBox)"
+    },
+    {
+      "name": "aws-black-orange-sphere-logo",
+      "type": "logo",
+      "path": "assets/logos/aws-black-orange-sphere.svg",
+      "size": 375,
+      "tags": ["aws", "logo", "black", "orange", "sphere"],
+      "description": "AWS Black and Orange Sphere logo with black text and orange arrow (375×375, viewBox)"
+    },
+    {
+      "name": "aws-blue-orange-sphere-logo",
+      "type": "logo",
+      "path": "assets/logos/aws-blue-orange-sphere.svg",
+      "size": 375,
+      "tags": ["aws", "logo", "blue", "orange", "sphere"],
+      "description": "AWS Blue and Orange Sphere logo with dark text #252f3e and orange arrow (375×375, viewBox)"
+    },
+    {
+      "name": "awscd-oceania-black-orange-icon",
+      "type": "icon",
+      "path": "assets/icons/awscd-oceania-black-orange.svg",
+      "size": 64,
+      "tags": ["aws", "icon", "oceania", "black", "orange"],
+      "description": "AWS CD Oceania Black and Orange icon asset (64x64)"
+    },
+    {
+      "name": "awscd-oceania-blue-orange-icon",
+      "type": "icon",
+      "path": "assets/icons/awscd-oceania-blue-orange.svg",
+      "size": 64,
+      "tags": ["aws", "icon", "oceania", "blue", "orange"],
+      "description": "AWS CD Oceania Blue and Orange icon asset with dark text #252f3e and orange elements (64x64)"
+    },
+    {
+      "name": "awscd-oceania-white-orange-icon",
+      "type": "icon",
+      "path": "assets/icons/awscd-oceania-white-orange.svg",
+      "size": 64,
+      "tags": ["aws", "icon", "oceania", "white", "orange"],
+      "description": "AWS CD Oceania White and Orange icon asset (64x64)"
+    },
+    {
+      "name": "awscd-oceania-black-black-sphere-logo",
+      "type": "logo",
+      "path": "assets/logos/awscd-oceania-black-black-sphere.svg",
+      "size": 375,
+      "tags": ["aws", "logo", "oceania", "black", "sphere"],
+      "description": "AWS CD Oceania Black Sphere logo with black text and black arrow (375×375, viewBox)"
+    },
+    {
+      "name": "awscd-oceania-black-orange-sphere-logo",
+      "type": "logo",
+      "path": "assets/logos/awscd-oceania-black-orange-sphere.svg",
+      "size": 375,
+      "tags": ["aws", "logo", "oceania", "black", "orange", "sphere"],
+      "description": "AWS CD Oceania Black and Orange Sphere logo with orange text and orange arrow (375×375, viewBox)"
+    },
+    {
+      "name": "awscd-oceania-blue-orange-sphere-logo",
+      "type": "logo",
+      "path": "assets/logos/awscd-oceania-blue-orange-sphere.svg",
+      "size": 375,
+      "tags": ["aws", "logo", "oceania", "blue", "orange", "sphere"],
+      "description": "AWS CD Oceania Blue and Orange Sphere logo with dark text #252f3e and orange elements (375×375, viewBox)"
+    },
+    {
+      "name": "awscd-oceania-black-black-rectangle-logo",
+      "type": "logo",
+      "path": "assets/logos/awscd-oceania-black-black-rectangle.svg",
+      "size": 680,
+      "tags": ["aws", "logo", "oceania", "black", "rectangle"],
+      "description": "AWS CD Oceania Black Rectangle logo with black text and black arrow (680×280, viewBox)"
+    },
+    {
+      "name": "awscd-oceania-blue-orange-rectangle-logo",
+      "type": "logo",
+      "path": "assets/logos/awscd-oceania-blue-orange-rectangle.svg",
+      "size": 680,
+      "tags": ["aws", "logo", "oceania", "blue", "orange", "rectangle"],
+      "description": "AWS CD Oceania Blue and Orange Rectangle logo with dark text #252f3e and orange arrow (680×280, viewBox)"
+    },
+    {
+      "name": "awscd-oceania-white-white-rectangle-logo",
+      "type": "logo",
+      "path": "assets/logos/awscd-oceania-white-white-rectangle.svg",
+      "size": 680,
+      "tags": ["aws", "logo", "oceania", "white", "rectangle"],
+      "description": "AWS CD Oceania White Rectangle logo with white text and white arrow (680×280, viewBox)"
+    },
+    {
+      "name": "awscd-oceania-black-black-square-white-logo",
+      "type": "logo",
+      "path": "assets/logos/awscd-oceania-black-black-square-white.svg",
+      "size": 695,
+      "tags": ["aws", "logo", "oceania", "black", "square", "white"],
+      "description": "AWS CD Oceania Black Square logo with white background, black text and black arrow (695×280, viewBox)"
+    },
+    {
+      "name": "awscd-oceania-blue-blue-square-white-logo",
+      "type": "logo",
+      "path": "assets/logos/awscd-oceania-blue-blue-square-white.svg",
+      "size": 695,
+      "tags": ["aws", "logo", "oceania", "blue", "square", "white"],
+      "description": "AWS CD Oceania Blue Square logo with white background, dark text #252f3e and orange arrow (695×280, viewBox)"
+    },
+    {
+      "name": "awscd-oceania-white-white-square-gray-logo",
+      "type": "logo",
+      "path": "assets/logos/awscd-oceania-white-white-square-gray.svg",
+      "size": 680,
+      "tags": ["aws", "logo", "oceania", "white", "square", "gray"],
+      "description": "AWS CD Oceania White Square logo with gray background #252f3e, white text and white arrow (680×280, viewBox)"
+    },
+    {
+      "name": "datacom-primary-blue-logo",
+      "type": "logo",
+      "path": "assets/logos/datacom-primary-blue.svg",
+      "tags": ["datacom", "logo", "blue"],
+      "description": "Datacom primary logo - blue version (160x30)"
+    },
+    {
+      "name": "datacom-primary-white-logo",
+      "type": "logo",
+      "path": "assets/logos/datacom-primary-white.svg",
+      "tags": ["datacom", "logo", "white"],
+      "description": "Datacom primary logo - white background version (160x30)"
+    },
+    {
+      "name": "example-image",
+      "type": "image",
+      "path": "assets/images/example-image.png",
+      "tags": ["example", "image"],
+      "description": "Example image asset"
+    }
+  ]
+}
