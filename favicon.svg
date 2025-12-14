@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .icon-bg { fill: #527FFF; }
+      .icon-frame { fill: #FFFFFF; }
+      .icon-grid { fill: #232F3E; }
+    </style>
+  </defs>
+  <!-- Background circle -->
+  <circle cx="32" cy="32" r="30" class="icon-bg"/>
+
+  <!-- Gallery frame -->
+  <rect x="12" y="16" width="20" height="16" rx="2" class="icon-frame"/>
+  <rect x="32" y="16" width="20" height="16" rx="2" class="icon-frame"/>
+  <rect x="12" y="32" width="20" height="16" rx="2" class="icon-frame"/>
+  <rect x="32" y="32" width="20" height="16" rx="2" class="icon-frame"/>
+
+  <!-- Grid lines inside frames -->
+  <line x1="22" y1="16" x2="22" y2="32" stroke="#E5E5E5" stroke-width="1"/>
+  <line x1="42" y1="16" x2="42" y2="32" stroke="#E5E5E5" stroke-width="1"/>
+  <line x1="12" y1="24" x2="32" y2="24" stroke="#E5E5E5" stroke-width="1"/>
+  <line x1="32" y1="24" x2="52" y2="24" stroke="#E5E5E5" stroke-width="1"/>
+  <line x1="22" y1="32" x2="22" y2="48" stroke="#E5E5E5" stroke-width="1"/>
+  <line x1="42" y1="32" x2="42" y2="48" stroke="#E5E5E5" stroke-width="1"/>
+  <line x1="12" y1="40" x2="32" y2="40" stroke="#E5E5E5" stroke-width="1"/>
+  <line x1="32" y1="40" x2="52" y2="40" stroke="#E5E5E5" stroke-width="1"/>
+</svg>
